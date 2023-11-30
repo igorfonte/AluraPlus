@@ -30,7 +30,7 @@ This project was developed using the following technologies:
 
 Alura Plus+ is a Front-End interface streaming platform featuring educational content from Alura.
 
-- [Access the finished project online here.]()
+- [Access the finished project online here.](https://alura-plus-chi-lemon.vercel.app/)
 
 
 
